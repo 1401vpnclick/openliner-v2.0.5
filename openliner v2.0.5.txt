@@ -1,1 +1,1 @@
-.
+{"title":"کاربر گرامی ","message":"اپدیت جدیدی از این برنامه منتشر شده و بزودی نسخه مود خدمت شما کاربران قرار داده میشود ","dismissable":false,"dismissTxt":"رد","okTxt":"عضویت در تلگرام","okUrl":"tg://resolve?domain=Vpn_Click","status":"ok"}
